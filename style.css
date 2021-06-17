@@ -47,3 +47,10 @@ body
     height: 300px;
     width: 50vh;
 }
+
+.btn7{
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
